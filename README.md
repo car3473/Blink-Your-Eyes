@@ -2,7 +2,7 @@
 Blink Reminder
 
 
-< BLINK YOUR EYES - APK*EXE links >
+< BLINK YOUR EYES - APK*EXE links > ! i upload here, because google drive has several errors 
 
 -Real Official Links.
 -NO VIRUS.
