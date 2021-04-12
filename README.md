@@ -1,5 +1,4 @@
-# Blink-Your-Eyes
-<Blink Your Eyes - apk, exe>
+# <Blink Your Eyes - apk, exe>
 
 * Real Official Link
 * No, Never, Virus in files (google drive says there's virus in files, but idk.. i really don't put them.. so i add github link)
