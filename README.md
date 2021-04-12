@@ -6,10 +6,6 @@
 * please don't publish files
 * basically don't support past version (server or image, html ~ ect)
 
-<<<<<<< HEAD
-=======
-< BLINK YOUR EYES - APK*EXE links > ! i upload here, because google drive has several errors 
->>>>>>> 45aff4ef4e875f25932577bb457987c55f5393e2
 
 "first, I am very appreciated for your love to this strange app :D
 I just want you to enjoy past, or other versions too.
@@ -20,10 +16,6 @@ Android PlayStore Link : https://play.google.com/store/apps/details?id=appinvent
 
 mail: oscar050309@gmail.com
 
-<<<<<<< HEAD
 (c) Earth 
 
 Last TXT Edit: 0412 2021
-=======
-PlayStore Link : https://play.google.com/store/apps/details?id=appinventor.ai_oscar050309.Blink_Your_Eyes
->>>>>>> 45aff4ef4e875f25932577bb457987c55f5393e2
